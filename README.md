@@ -1,4 +1,4 @@
-# AZP Paket Sistemi Layihəsi
+# AZP Paket Sistemi
 ![banner](https://i.ibb.co/VvhyCrd/azp-banner.png)
 
 # Haqqında 
