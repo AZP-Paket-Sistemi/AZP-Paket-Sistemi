@@ -1,16 +1,17 @@
-### Hi there 👋
+# AZP Paket Sistemi Layihəsi
 
-<!--
-**AZP-Paket-Sistemi/AZP-Paket-Sistemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Haqqında 
+AZP, PacPERRO tərəfindən inkişaf etdirilən Azərbaycanın yerli Linux paket sistemidir
 
-Here are some ideas to get you started:
+## 🌐 Sosial Media:
+##### 🕸 [Rəsmi Vebsayt](https://azp-paket-sistemi.github.io/)
+####    
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_GXkPl5WnOSV3dQCIHvCPA) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 İstifadə olunan texnologiyalar:
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+# 🧩 Qurucu:
+##### Heydər İsmayıllı - heyderismayilli092@protonmail.com
+ 
+ ##### © 2021-2022 AZP. Bütün hüquqları qorunur
