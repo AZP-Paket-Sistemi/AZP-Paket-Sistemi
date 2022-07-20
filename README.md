@@ -1,5 +1,5 @@
 # AZP Paket Sistemi Layihəsi
-![banner](https://ibb.co/zSLc2j1)
+![banner](https://i.ibb.co/VvhyCrd/azp-banner.png)
 
 # Haqqında 
 AZP, PacPERRO tərəfindən inkişaf etdirilən Azərbaycanın yerli Linux paket sistemidir
