@@ -1,8 +1,8 @@
-# AZP Paket Sistemi
+# AZP Paket Meneceri
 ![banner](https://i.ibb.co/VvhyCrd/azp-banner.png)
 
 # Haqqında 
-AZP, PacPERRO tərəfindən inkişaf etdirilən Azərbaycanın yerli Linux paket sistemidir
+AZP, PacPERRO tərəfindən inkişaf etdirilən Azərbaycanın yerli Linux paket meneceridir
 
 ## 🌐 Sosial Media:
 ##### 🕸 [Rəsmi Vebsayt](https://azp-paket-sistemi.github.io/)
