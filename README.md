@@ -1,5 +1,5 @@
 # AZP Paket Meneceri
-![banner](https://i.ibb.co/VvhyCrd/azp-banner.png)
+![banner](https://i.ibb.co/vwLxjZ2/azp-github-banner.png)
 
 # Haqqında 
 AZP, PacPERRO tərəfindən inkişaf etdirilən Azərbaycanın yerli Linux paket meneceridir
