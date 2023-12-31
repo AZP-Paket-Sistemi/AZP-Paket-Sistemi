@@ -18,5 +18,5 @@ AZP, Azərbaycanın yerli Linux paket meneceridir
 ##### Heydər İsmayıllı - heyderismayilli092@protonmail.com
 ##### Hasan Yıldız
 
-##### © 2021-2023 AZP
+##### © 2021-2024 AZP
 
